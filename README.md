@@ -1,8 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Priyanshu%20Negi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20AI%20%26%20Security%20Researcher&descAlignY=58&descColor=c4b5fd" width="100%"/>
+<!-- Header Banner — inline SVG, no external service dependency -->
+<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#hg)" rx="0"/>
+  <path d="M0,120 C150,80 300,160 450,120 C600,80 750,160 900,120 L900,180 L0,180 Z" fill="rgba(255,255,255,0.08)"/>
+  <text x="450" y="80"  text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Priyanshu Negi</text>
+  <text x="450" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#c4b5fd">M.Sc. Computer Science · AI &amp; Security Researcher</text>
+</svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Computer+Vision+%7C+Cloud+Security;KTGCN+%7C+YOLOv8+%7C+Homomorphic+Encryption;Building+AI+that+solves+real-world+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Deep+Learning+%7C+Computer+Vision+%7C+Cloud+Security;KTGCN+%7C+YOLOv8+%7C+Homomorphic+Encryption;Building+AI+that+solves+real-world+problems)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:priyanshunegi7466@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -17,22 +29,37 @@
 
 ## 👨‍💻 About Me
 
-```python
-priyanshu = {
-    "university"  : "Kumaun University, D.S.B. Campus, Nainital",
-    "degree"      : "M.Sc. Computer Science (2024–2026)",
-    "location"    : "Nainital, Uttarakhand, India 🏔️",
-    "interests"   : ["Deep Learning", "Computer Vision", "Cloud Security", "Cryptography"],
-    "currently"   : ["TensorRT optimization", "GPU deployment", "Flutter"],
-    "contact"     : "priyanshunegi7466@gmail.com",
-}
-```
+```bash
+┌──────────────────────────────────────────────────────────┐
+│                   PRIYANSHU NEGI                         │
+│              M.Sc. Computer Science                      │
+└──────────────────────────────────────────────────────────┘
 
-- 🎓 **M.Sc. CS** student at Kumaun University, specialising in AI and Security
-- 🔐 Built a **Three-Way Protection Framework** for secure cloud storage (MHE + KTGCN + AES-ECC-RSA)
-- 🚦 Built a **Real-time Traffic Monitoring System** using YOLOv8 + ByteTrack at 24 FPS
-- 🏛️ Contributed to **Uttarakhand e-District Portal** — government digital services platform
-- 🌱 Always learning, always building
+priyanshu@dsb-campus:~$ whoami
+  Name     : Priyanshu Negi
+  Degree   : M.Sc. Computer Science (2024–2026)
+  Uni      : Kumaun University, D.S.B. Campus, Nainital
+  Location : Nainital, Uttarakhand, India 🏔️
+  Email    : priyanshunegi7466@gmail.com
+
+priyanshu@dsb-campus:~$ cat interests.txt
+  → Deep Learning       → Computer Vision
+  → Cloud Security      → Cryptography
+  → Graph Neural Nets   → Homomorphic Encryption
+
+priyanshu@dsb-campus:~$ cat projects.log
+  [✓] Secure Cloud Storage  — KTGCN + MHE + AES-ECC-RSA  (99.83% accuracy)
+  [✓] Smart Traffic Monitor — YOLOv8 + ByteTrack          (24 FPS, CPU)
+  [✓] Face Recognition Attendance — Flask + OpenCV        (real-time)
+  [✓] e-District Portal     — TypeScript + React          (GovTech)
+
+priyanshu@dsb-campus:~$ ./status.sh
+  Currently  : M.Sc. CS · 1st Semester complete ✓
+  Learning   : TensorRT · GPU deployment · Flutter
+  Open to    : Research collaborations · Internships
+
+priyanshu@dsb-campus:~$ █
+```
 
 ---
 
@@ -202,7 +229,16 @@ priyanshu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=100&section=footer&fontSize=16&fontColor=ffffff" width="100%"/>
+<!-- Footer Banner — inline SVG -->
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,0 300,80 450,40 C600,0 750,80 900,40 L900,80 L0,80 Z" fill="url(#fg)"/>
+</svg>
 
 *"Building AI systems that solve real-world problems — one model at a time."*
 
