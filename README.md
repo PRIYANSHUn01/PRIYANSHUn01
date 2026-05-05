@@ -164,7 +164,7 @@ priyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHUn01&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=PRIYANSHUn01&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -183,9 +183,6 @@ priyanshu = {
 
 <a href="https://github.com/PRIYANSHUn01/face-recognition-attendance-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHUn01&repo=face-recognition-attendance-system&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/PRIYANSHUn01/uttarakhand-edistrict-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHUn01&repo=uttarakhand-edistrict-portal&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
