@@ -54,7 +54,7 @@ priyanshu@dsb-campus:~$ cat projects.log
   [✓] e-District Portal     — TypeScript + React          (GovTech)
 
 priyanshu@dsb-campus:~$ ./status.sh
-  Currently  : M.Sc. CS · 1st Semester complete ✓ 2n Semester running...
+  Currently  : M.Sc. CS · 1st Semester complete ✓ | 2nd Semester running...
   Learning   : TensorRT · GPU deployment · Flutter
   Open to    : Research collaborations · Internships
 
