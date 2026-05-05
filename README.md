@@ -180,26 +180,6 @@ priyanshu@dsb-campus:~$ █
 
 ---
 
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/PRIYANSHUn01/secure-cloud-data-storage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHUn01&repo=secure-cloud-data-storage&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/PRIYANSHUn01/smart-traffic-monitoring">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHUn01&repo=smart-traffic-monitoring&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/PRIYANSHUn01/face-recognition-attendance-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHUn01&repo=face-recognition-attendance-system&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 | Project | Domain | Tech | Key Result |
