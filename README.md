@@ -37,7 +37,7 @@
 
 priyanshu@dsb-campus:~$ whoami
   Name     : Priyanshu Negi
-  Degree   : M.Sc. Computer Science (2024–2026)
+  Degree   : M.Sc. Computer Science (2025–2027)
   Uni      : Kumaun University, D.S.B. Campus, Nainital
   Location : Nainital, Uttarakhand, India 🏔️
   Email    : priyanshunegi7466@gmail.com
@@ -54,7 +54,7 @@ priyanshu@dsb-campus:~$ cat projects.log
   [✓] e-District Portal     — TypeScript + React          (GovTech)
 
 priyanshu@dsb-campus:~$ ./status.sh
-  Currently  : M.Sc. CS · 1st Semester complete ✓
+  Currently  : M.Sc. CS · 1st Semester complete ✓ 2n Semester running...
   Learning   : TensorRT · GPU deployment · Flutter
   Open to    : Research collaborations · Internships
 
@@ -180,22 +180,6 @@ priyanshu@dsb-campus:~$ █
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PRIYANSHUn01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANSHUn01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=PRIYANSHUn01&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
----
 
 ## 📌 Featured Projects
 
